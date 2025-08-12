@@ -223,7 +223,7 @@ Expert (Challenges 16-20)
 └── Logging & Monitoring
 ```
 
----
+---  
 
 ## 📝 **Training Credits**
 
